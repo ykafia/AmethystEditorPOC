@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace amethyst_editor.Data
+namespace AmethystEditor.Data
 {
     public class WeatherForecastService
     {

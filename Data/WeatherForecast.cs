@@ -1,6 +1,6 @@
 using System;
 
-namespace amethyst_editor.Data
+namespace AmethystEditor.Data
 {
     public class WeatherForecast
     {

@@ -368,26 +368,25 @@
     ]
   },
   "packageFolders": {
-    "D:\\.nuget\\": {}
+    "C:\\Users\\youness_kafia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodeProj\\Dotnet\\amethyst_editor\\amethyst_editor.csproj",
-      "projectName": "amethyst_editor",
-      "projectPath": "D:\\CodeProj\\Dotnet\\amethyst_editor\\amethyst_editor.csproj",
-      "packagesPath": "D:\\.nuget\\",
-      "outputPath": "D:\\CodeProj\\Dotnet\\amethyst_editor\\obj\\",
+      "projectUniqueName": "G:\\dotnetProj\\AmethystEditorPOC\\AmethystEditor.csproj",
+      "projectName": "AmethystEditor",
+      "projectPath": "G:\\dotnetProj\\AmethystEditorPOC\\AmethystEditor.csproj",
+      "packagesPath": "C:\\Users\\youness_kafia\\.nuget\\packages\\",
+      "outputPath": "G:\\dotnetProj\\AmethystEditorPOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kafia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\youness_kafia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packages.xenko.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -426,7 +425,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "G:\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

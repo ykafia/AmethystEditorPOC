@@ -9,9 +9,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using amethyst_editor.Data;
+using AmethystEditor.Data;
 
-namespace amethyst_editor
+namespace AmethystEditor
 {
     public class Startup
     {
